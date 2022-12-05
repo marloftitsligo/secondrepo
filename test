@@ -1,2 +1,4 @@
 test
 The test has been tested
+
+print("hello world")
